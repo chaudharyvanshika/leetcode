@@ -7,6 +7,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaudharyvanshika/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -19,4 +20,12 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
