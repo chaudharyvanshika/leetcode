@@ -6,6 +6,7 @@ my leetcode solutions in java
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
