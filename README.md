@@ -38,8 +38,17 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
