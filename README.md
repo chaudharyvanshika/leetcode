@@ -13,6 +13,7 @@ my leetcode solutions in java
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaudharyvanshika/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/chaudharyvanshika/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/chaudharyvanshika/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
