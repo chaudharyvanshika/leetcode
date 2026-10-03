@@ -48,6 +48,7 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,12 +57,14 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharyvanshika/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
