@@ -42,6 +42,7 @@ my leetcode solutions in java
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ my leetcode solutions in java
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
