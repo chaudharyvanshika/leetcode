@@ -14,6 +14,7 @@ my leetcode solutions in java
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chaudharyvanshika/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaudharyvanshika/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -75,4 +76,8 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
