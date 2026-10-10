@@ -7,6 +7,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/chaudharyvanshika/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -79,5 +80,10 @@ my leetcode solutions in java
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
