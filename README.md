@@ -14,6 +14,7 @@ my leetcode solutions in java
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chaudharyvanshika/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -26,6 +27,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/chaudharyvanshika/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +66,7 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -70,6 +74,7 @@ my leetcode solutions in java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Euclidean Algorithm
@@ -84,6 +89,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
