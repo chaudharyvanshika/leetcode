@@ -10,6 +10,7 @@ my leetcode solutions in java
 | [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/chaudharyvanshika/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -39,6 +40,7 @@ my leetcode solutions in java
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
@@ -60,6 +62,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -86,4 +89,20 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
