@@ -20,6 +20,7 @@ my leetcode solutions in java
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaudharyvanshika/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chaudharyvanshika/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -69,6 +70,7 @@ my leetcode solutions in java
 | [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -77,6 +79,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Euclidean Algorithm
