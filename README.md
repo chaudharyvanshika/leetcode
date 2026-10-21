@@ -21,6 +21,7 @@ my leetcode solutions in java
 | [0507-perfect-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chaudharyvanshika/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaudharyvanshika/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chaudharyvanshika/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -60,6 +61,7 @@ my leetcode solutions in java
 | [0027-remove-element](https://github.com/chaudharyvanshika/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -101,6 +103,7 @@ my leetcode solutions in java
 | [0069-sqrtx](https://github.com/chaudharyvanshika/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
