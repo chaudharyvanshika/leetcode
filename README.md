@@ -58,6 +58,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/chaudharyvanshika/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -70,6 +71,7 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chaudharyvanshika/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/chaudharyvanshika/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -80,6 +82,7 @@ my leetcode solutions in java
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/chaudharyvanshika/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/chaudharyvanshika/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/chaudharyvanshika/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
