@@ -136,6 +136,7 @@ my leetcode solutions in java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharyvanshika/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/chaudharyvanshika/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
