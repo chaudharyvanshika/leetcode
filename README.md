@@ -11,6 +11,7 @@ my leetcode solutions in java
 | [0172-factorial-trailing-zeroes](https://github.com/chaudharyvanshika/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/chaudharyvanshika/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/chaudharyvanshika/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/chaudharyvanshika/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/chaudharyvanshika/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -137,10 +138,12 @@ my leetcode solutions in java
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharyvanshika/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/chaudharyvanshika/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/chaudharyvanshika/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaudharyvanshika/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/chaudharyvanshika/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
