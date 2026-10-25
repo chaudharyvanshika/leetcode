@@ -18,6 +18,7 @@ my leetcode solutions in java
 | [0268-missing-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/chaudharyvanshika/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/chaudharyvanshika/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/chaudharyvanshika/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/chaudharyvanshika/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -128,6 +129,7 @@ my leetcode solutions in java
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/chaudharyvanshika/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaudharyvanshika/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
